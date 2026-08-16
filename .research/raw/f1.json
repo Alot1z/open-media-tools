@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://www.resecurity.com/blog/article/ssrf-to-aws-metadata-exposure-how-attackers-steal-cloud-credentials",
+    "name": "SSRF to AWS Metadata Exposure: How Attackers Steal",
+    "snippet": "Aug 6, 2025 — The AWS Instance Metadata Service ( 169.254.169.254 ) is designed to be accessed only from within the EC2 instance.",
+    "host_name": "www.resecurity.com",
+    "rank": 0,
+    "date": "Aug 6, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.paloaltonetworks.com/cyberpedia/server-side-request-forgery-api7",
+    "name": "What Is Server Side Request Forgery?",
+    "snippet": "Egress filtering blocks connections to private IP ranges, localhost addresses, and cloud metadata endpoints. Configure firewall rules to deny outbound ...",
+    "host_name": "www.paloaltonetworks.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.graphnodesoftware.com/blog/ssrf-attack-prevention",
+    "name": "SSRF Attack Prevention: Cloud Metadata, IMDSv2, Code",
+    "snippet": "Apr 26, 2026 — The allowlist is the primary defense. The IP -range check is the safety net for when allowlists are infeasible. A record at 169.254.169.254 ...",
+    "host_name": "www.graphnodesoftware.com",
+    "rank": 2,
+    "date": "Apr 26, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.linkedin.com/pulse/server-side-request-forgery-ssrf-yuriy-safronnynov-grc8e",
+    "name": "Server-Side Request Forgery (SSRF)",
+    "snippet": "SSRF lets an attacker trick your server into making requests on their behalf, to internal services, cloud metadata endpoints, Cloud metadata : ...",
+    "host_name": "www.linkedin.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://paths.grasp.study/modules/835139e4-fe85-473f-bfba-6e0a80fde174/lessons/bbb18fed-fcb5-41a2-b0d9-855de1580b13",
+    "name": "Exploiting SSRF: Cloud Metadata Service Attacks - Grasp",
+    "snippet": "For AWS, this \"magic IP \" is 169.254.169.254 . SSRF vulnerability provides the perfect gateway for an external attacker to query it. List IAM users in the ...",
+    "host_name": "paths.grasp.study",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  }
+]

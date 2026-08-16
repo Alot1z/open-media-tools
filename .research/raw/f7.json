@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://www.eff.org/deeplinks/2020/11/github-reinstates-youtube-dl-after-riaas-abuse-dmca",
+    "name": "GitHub Reinstates youtube-dl After RIAA's Abuse of the",
+    "snippet": "Nov 17, 2020 — RIAA's letter accused youtube - dl of being a “circumvention device” that bypasses a digital lock protected by section 1201 of the DMCA . Read more",
+    "host_name": "www.eff.org",
+    "rank": 0,
+    "date": "Nov 17, 2020",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/technology/comments/jguhv6/youtubedl_has_received_a_dmca_takedown_from_riaa",
+    "name": "YouTube-dl has received a DMCA takedown from RIAA",
+    "snippet": "This is known as a DMCA Takedown notice. It is usually given to the operator of the website. The provisions of the law requires the site to ... Read more",
+    "host_name": "www.reddit.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=24876695",
+    "name": "Downloading a Youtube video with youtube-dl IS NOT",
+    "snippet": "Downloading videos may violate Youtube's TOS, but that's civil/contract law and not criminal and so the DMCA can't be used to enforce such TOS violations.",
+    "host_name": "news.ycombinator.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://copyrightlately.com/youtube-stream-ripping-copyright",
+    "name": "YouTube Stream-Ripping: A Battle of Analogies",
+    "snippet": "Oct 28, 2020 — RIAA , successful in getting YouTube - DL removed from Github, is now defending a lawsuit by Yout, another stream-ripping tool.",
+    "host_name": "copyrightlately.com",
+    "rank": 3,
+    "date": "Oct 28, 2020",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.dmca.com/articles/youtubedl-riaa-github-takedown",
+    "name": "“Yout” Files Lawsuit Against RIAA in Stream-Ripping Tool",
+    "snippet": "Yout's lawsuit against the RIAA has revived a question whether stream-ripping tools breach protections under the DMCA . Here's our analysis.",
+    "host_name": "www.dmca.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  }
+]

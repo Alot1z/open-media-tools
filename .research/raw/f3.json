@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://github.com/imputnet/cobalt/blob/main/api/LICENSE",
+    "name": "cobalt/api/LICENSE at main",
+    "snippet": "The GNU Affero General Public License is a copyleft license for software and other kinds of works, specifically designed to ensure cooperation with the ...",
+    "host_name": "github.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en",
+    "name": "Attribution-NonCommercial-ShareAlike 4.0 International",
+    "snippet": "The Adapter's License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-NC-SA Compatible License.",
+    "host_name": "creativecommons.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://opensource.stackexchange.com/questions/9152/can-artwork-under-cc-by-nc-nd-be-used-in-agpl-codebase",
+    "name": "Can artwork under CC-BY NC ND be used in AGPL",
+    "snippet": "Can artwork under CC-BY NC ND be used in AGPL codebase? I have sprites for a game I want to release under CC-BY NC ND license. Game code itself is licensed ...",
+    "host_name": "opensource.stackexchange.com",
+    "rank": 2,
+    "date": "Dec 21, 2019",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/imputnet/cobalt/blob/main/web/README.md",
+    "name": "cobalt/web/README.md at main",
+    "snippet": "cobalt web code is licensed under CC-BY-NC-SA-4.0. this license allows you to: copy and redistribute the code in any medium or format, and remix, transform, ...",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/opensource/comments/oqalj1/what_license_should_i_use_to_prevent_aws_e_al",
+    "name": "What license should I use to prevent AWS e. al. from selling",
+    "snippet": "Alternatively you could use a CC BY-NC-SA license which prohibits all commercial use and requires that derivative works are published under the ...",
+    "host_name": "www.reddit.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  }
+]

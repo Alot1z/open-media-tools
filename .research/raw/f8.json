@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/Security/Defenses/Subresource_Integrity",
+    "name": "Subresource Integrity - Security - MDN Web Docs",
+    "snippet": "Apr 14, 2026 · Subresource Integrity (SRI) is a security feature that enables browsers to verify that resources they fetch (for example, from a CDN) are ...",
+    "host_name": "developer.mozilla.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://andrewlock.net/avoiding-cdn-supply-chain-attacks-with-subresource-integrity",
+    "name": "Avoiding CDN supply-chain attacks with Subresource Integrity (SRI)",
+    "snippet": "Aug 20, 2024 · In this post I discus the recent pollyfill.io supply-chain attack and describe how to protect against similar attacks using Subresource ...",
+    "host_name": "andrewlock.net",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://security.stackexchange.com/questions/193429/how-does-subresource-integrity-actually-help",
+    "name": "How does subresource integrity actually help?",
+    "snippet": "Sep 10, 2018 · Here enters Subresource Integrity - SRI. It prevents a third party from altering external resources undetected. If you have SRI enabled on ...",
+    "host_name": "security.stackexchange.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://owasp.org/www-community/controls/SubresourceIntegrity",
+    "name": "Subresource Integrity (SRI) - OWASP Foundation",
+    "snippet": "Subresource Integrity (SRI) is a security mechanism that allows web browsers to check the integrity of resources they fetch from external sources,",
+    "host_name": "owasp.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://centralcsp.com/articles/sri-hash",
+    "name": "Subresource Integrity (SRI) for Scripts - CentralCSP",
+    "snippet": "Jan 2, 2026 · Subresource Integrity (SRI) lets browsers verify that a script or stylesheet fetched from another origin (e.g. a CDN) has not been altered.",
+    "host_name": "centralcsp.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  }
+]

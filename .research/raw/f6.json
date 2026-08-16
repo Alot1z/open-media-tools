@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://securitylab.github.com/resources/github-actions-new-patterns-and-mitigations",
+    "name": "Keeping your GitHub Actions and workflows secure Part 4",
+    "snippet": "Jan 16, 2025 — A workflow activated by pull_request_target and triggered from a fork operates with significant privileges in contrast to the pull_request event ... Read more",
+    "host_name": "securitylab.github.com",
+    "rank": 0,
+    "date": "Jan 16, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://blog.gitguardian.com/github-actions-security-cheat-sheet",
+    "name": "GitHub Actions Security Best Practices [cheat sheet included]",
+    "snippet": "Apr 11, 2025 — The ' pull_request_target ' trigger runs in the context of your target repo, meaning the workflow has access to YOUR secrets and write access to ... Read more",
+    "host_name": "blog.gitguardian.com",
+    "rank": 1,
+    "date": "Apr 11, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.wiz.io/blog/github-actions-security-guide",
+    "name": "Hardening GitHub Actions: Lessons from Recent Attacks",
+    "snippet": "Apr 15, 2026 — pull_request_target now always uses the default branch as its workflow source, preventing exploitation of outdated vulnerable workflows",
+    "host_name": "www.wiz.io",
+    "rank": 2,
+    "date": "Apr 15, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/orgs/community/discussions/179107",
+    "name": "Towards a secure by default GitHub Actions #179107",
+    "snippet": "GitHub announced upcoming changes to the pull_request_target event, The new behaviors scheduled for December 8, 2025 start",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sysdig.com/blog/insecure-github-actions-found-in-mitre-splunk-and-other-open-source-repositories",
+    "name": "Dangerous by default: Insecure GitHub Actions found in",
+    "snippet": "Jun 17, 2025 — Pull_request_target is by far the most known to be prone to vulnerability due to its nature of dealing with public forks. Workflows that use ... Read more",
+    "host_name": "www.sysdig.com",
+    "rank": 4,
+    "date": "Jun 17, 2025",
+    "favicon": ""
+  }
+]

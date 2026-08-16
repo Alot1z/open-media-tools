@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://stackoverflow.com/questions/28310501/why-did-safari-drop-support-for-sharedworker",
+    "name": "Why did Safari drop support for SharedWorker?",
+    "snippet": "Why did Safari drop support for SharedWorker? And are there any working polyfills using, for example, localStorage and StorageEvent as a communication ...",
+    "host_name": "stackoverflow.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://itnext.io/safari-now-fully-supports-sharedworkers-534733b56b4c",
+    "name": "Safari now fully supports SharedWorkers | by Tobias Uhlig",
+    "snippet": "Apr 13, 2022 — Safari now fully supports . Thinking about iOS: Apple still restricts iOS to only allow the Webkit Engine. support ends up on iOS too, Jul 23,  ...",
+    "host_name": "itnext.io",
+    "rank": 1,
+    "date": "Apr 13, 2022",
+    "favicon": ""
+  },
+  {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/SharedWorker",
+    "name": "SharedWorker - Web APIs | MDN",
+    "snippet": "May 7, 2026 — Safari on iOS – Full support Safari on iOS. No Safari – Full support Has more compatibility info.",
+    "host_name": "developer.mozilla.org",
+    "rank": 2,
+    "date": "May 7, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/javascript/comments/u2kje8/safari_now_fully_supports_sharedworkers",
+    "name": "r/javascript - Safari now fully supports SharedWorkers",
+    "snippet": "Safari was probably just the slowest in implementing the new security features that made shared workers safe again.",
+    "host_name": "www.reddit.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.testmuai.com/learning-hub/sharedworker-browser-support",
+    "name": "SharedWorker: Browser Support, API, Limitations",
+    "snippet": "May 1, 2026 — SharedWorker compatibility in Safari Safari supports SharedWorker from Safari 16 on macOS and iOS Safari 16 on iPhone and iPad. WebKit briefly ...",
+    "host_name": "www.testmuai.com",
+    "rank": 4,
+    "date": "May 1, 2026",
+    "favicon": ""
+  }
+]

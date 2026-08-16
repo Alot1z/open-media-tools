@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://stackoverflow.com/questions/50795409/is-indexeddb-on-safari-guaranteed-to-be-persistent",
+    "name": "Is IndexedDB on Safari guaranteed to be persistent?",
+    "snippet": "Similar to this question, is IndexedDB guaranteed to be persistent ? ie. Safari will not reclaim disk space if the device is low on memory.",
+    "host_name": "stackoverflow.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://webkit.org/blog/14403/updates-to-storage-policy",
+    "name": "Updates to Storage Policy",
+    "snippet": "Aug 10, 2023 — The overall quota is the storage limit of all origins. Reaching the limit can lead to data eviction , which releases storage used by the app. Read more",
+    "host_name": "webkit.org",
+    "rank": 1,
+    "date": "Aug 10, 2023",
+    "favicon": ""
+  },
+  {
+    "url": "https://adactio.medium.com/apples-attack-on-service-workers-79370073b7e8",
+    "name": "Apple's attack on service workers | by Jeremy Keith | Medium",
+    "snippet": "So if someone returns to your site within a seven day period of using Safari , the timer resets to zero, and your service worker gets a stay of ... Read more",
+    "host_name": "adactio.medium.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://developer.apple.com/forums/thread/758346",
+    "name": "Safari Extension Service Worker Pe",
+    "snippet": "The only two things that will give the service worker another 30-40 seconds of life is a reboot of the device or disabling and then re-enabling the extension. Read more",
+    "host_name": "developer.apple.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://discuss.appstudio.dev/t/safari-13-1-and-ios-ipados-13-4-now-deletes-app-data-in-7-days/2211",
+    "name": "Safari 13.1 and iOS/iPadOS 13.4 now deletes app data in 7",
+    "snippet": "Mar 26, 2020 — iOS/iPadOS 13.4 now deletes app data in 7 days . Now in 7 days the data is gone. This means you'll have to reload the app data from the server ...",
+    "host_name": "discuss.appstudio.dev",
+    "rank": 4,
+    "date": "Mar 26, 2020",
+    "favicon": ""
+  },
+  {
+    "url": "https://support.apple.com/en-us/105082",
+    "name": "Delete your Safari history, cache, and cookies on iPhone",
+    "snippet": "Jan 14, 2026 — Go to Settings, tap Apps, then select Safari . Scroll down and tap Clear History and Website Data. Confirm the timeframe that you want to clear, ...",
+    "host_name": "support.apple.com",
+    "rank": 5,
+    "date": "Jan 14, 2026",
+    "favicon": ""
+  }
+]

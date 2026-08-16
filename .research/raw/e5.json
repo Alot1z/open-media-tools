@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://powersync.com/blog/sqlite-persistence-on-the-web",
+    "name": "The Current State Of SQLite Persistence On The Web",
+    "snippet": "Nov 11, 2025 — As of 2025, wa-sqlite's OPFSCoopSyncVFS is a good general-purpose VFS that has excellent performance, even with large databases, and works on ...",
+    "host_name": "powersync.com",
+    "rank": 0,
+    "date": "Nov 11, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/rhashimoto/wa-sqlite/discussions/63",
+    "name": "SQLite 3.40 to support browser API, including OPFS #63",
+    "snippet": "Jun 25, 2023 — the next SQLite non-patch release will contain a browser implementation, and that will include an Origin Private File System VFS for persistent storage.",
+    "host_name": "github.com",
+    "rank": 1,
+    "date": "Jun 25, 2023",
+    "favicon": ""
+  },
+  {
+    "url": "https://sqlite.org/wasm/doc/trunk/persistence.md",
+    "name": "Persistent Storage Options",
+    "snippet": "The Origin-Private FileSystem, OPFS , is an API providing browser -side persistent storage which, not coincidentally, sqlite3 can use for storing databases. Read more",
+    "host_name": "sqlite.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://developer.chrome.com/blog/sqlite-wasm-in-the-browser-backed-by-the-origin-private-file-system",
+    "name": "SQLite Wasm in the browser backed by the Origin Private File",
+    "snippet": "Jan 11, 2023 — To debug SQLite Wasm's Origin Private File System output, use the OPFS Explorer Chrome extension. OPFS Explorer in the Chrome Web Store. Read more",
+    "host_name": "developer.chrome.com",
+    "rank": 3,
+    "date": "Jan 11, 2023",
+    "favicon": ""
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=46345676",
+    "name": "Web-SQLite-JS – Persistent SQLite in the browser via OPFS",
+    "snippet": "Persistent SQLite in the browser via OPFS . Automatically uses OPFS for file storage. Applications are open till July 27.",
+    "host_name": "news.ycombinator.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  }
+]

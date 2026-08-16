@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://lapcatsoftware.com/articles/2026/1/7.html",
+    "name": "Mobile Safari web pages are severely limited by memory",
+    "snippet": "Jan 22, 2026 — What led me to investigate memory usage in mobile Safari was the failure of a specific StopTheMadness Pro feature, font replacements, or even ...",
+    "host_name": "lapcatsoftware.com",
+    "rank": 0,
+    "date": "Jan 22, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/emscripten-core/emscripten/issues/19374",
+    "name": "Out-of-memory error in Safari (iOS/macOS) when reloading",
+    "snippet": "May 16, 2023 — On Safari iOS , there's less memory available, so if you don't reduce the MAXIMUM_MEMORY value, you'll exceed the memory limit .",
+    "host_name": "github.com",
+    "rank": 1,
+    "date": "May 16, 2023",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/iOSProgramming/comments/qafxl6/ios_safari_extensions_dealing_with_6_mb_memory",
+    "name": "iOS safari extensions - dealing with 6 MB memory limit",
+    "snippet": "I just found out that extensions have a 6 MB memory limit , and my extension keeps getting terminated because of it. there seems to be no ... Read more",
+    "host_name": "www.reddit.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://forum.babylonjs.com/t/surprisingly-big-memory-footprint-on-safari-against-chromium/39130",
+    "name": "Surprisingly big memory footprint on Safari against",
+    "snippet": "Mar 17, 2023 — We load a lot of external models which can spike the memory A LOT on iOS devices (hitting the ~2GB limit , forcing a page refresh). Using ... Read more",
+    "host_name": "forum.babylonjs.com",
+    "rank": 3,
+    "date": "Mar 17, 2023",
+    "favicon": ""
+  },
+  {
+    "url": "https://stackoverflow.com/questions/11831429/mobile-safari-on-ios-crashes-on-big-pages",
+    "name": "Mobile Safari on iOS crashes on big pages",
+    "snippet": "I have a problem where Mobile Safari crashes when loading and manipulating the DOM with jQuery when the pages get too big. I get the same problem on both ...",
+    "host_name": "stackoverflow.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Background_Fetch_API",
+    "name": "Background Fetch API - MDN Web Docs",
+    "snippet": "Jul 7, 2025 — The Background Fetch API provides a method for managing downloads that may take a significant amount of time such as movies, audio files, and ... Read more",
+    "host_name": "developer.mozilla.org",
+    "rank": 0,
+    "date": "Jul 7, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/Safari/comments/17fz6nd/safari_17_backgroundfetch_api_speed_increase",
+    "name": "Safari 17 “Background-Fetch API” - speed increase",
+    "snippet": "The Background Fetch API allows web applications to download large files in the background even if the user is offline or navigates away ... Read more",
+    "host_name": "www.reddit.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://web.dev/articles/background-fetch-ai",
+    "name": "Download AI models with the Background Fetch API",
+    "snippet": "Feb 20, 2025 — Browser Support Chrome: 74. x Safari: not supported . The Background Fetch API requires your app to register a service worker. browser and the  ...",
+    "host_name": "web.dev",
+    "rank": 2,
+    "date": "Feb 20, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://stackoverflow.com/questions/73870513/alternative-to-chromes-background-fetch-api",
+    "name": "Alternative to Chrome's Background Fetch Api?",
+    "snippet": "So I just came across Chrome's \" Background Fetch API \" and I'm wondering if Firefox and Safari provide a similar API . Read more",
+    "host_name": "stackoverflow.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://web-platform-dx.github.io/web-features-explorer/features/background-fetch",
+    "name": "Web features explorer - Background fetch",
+    "snippet": "Background fetch downloads data in the background even when the web page is closed. Safari on iOS 26.5. Browser support Chrome 74 Released on 2019-04-23.  ...",
+    "host_name": "web-platform-dx.github.io",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  }
+]

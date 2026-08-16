@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://github.com/orgs/community/discussions/13309",
+    "name": "Allow setting COOP and COEP headers in Github Pages",
+    "snippet": "In order to use SharedArrayBuffer and WebAssembly Threads, COOP and COEP headers need to be set , such that the page becomes cross-origin isolated ... Read more",
+    "host_name": "github.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.wasmer.io/sdk/wasmer-js/how-to/coop-coep-headers",
+    "name": "Patching COOP & COEP headers for GitHub Pages",
+    "snippet": "Jul 31, 2026 — Deploying web applications on GitHub Pages that require Cross-Origin Isolation can be challenging due to lack of control over HTTP headers . Read more",
+    "host_name": "docs.wasmer.io",
+    "rank": 1,
+    "date": "Jul 31, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://blog.tomayac.com/2025/03/08/setting-coop-coep-headers-on-static-hosting-like-github-pages",
+    "name": "Setting the COOP and COEP headers on static hosting like",
+    "snippet": "Mar 8, 2025 — Typically, sending non-default HTTP headers like COOP and COEP means controlling the server so you can configure it to send them.",
+    "host_name": "blog.tomayac.com",
+    "rank": 2,
+    "date": "Mar 8, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://stackoverflow.com/questions/14798589/github-pages-http-headers",
+    "name": "Github pages, HTTP headers",
+    "snippet": "I serve some of my files from my Github pages account. But when I check my \"js\" files' headers, I saw following: Last-Modified:Sun, 10 Feb 2013 14:00:46 ...",
+    "host_name": "stackoverflow.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/pygame-web/pygame-web.github.io/issues/12",
+    "name": "COOP and COEP headers in Github Pages · Issue #12",
+    "snippet": "Oct 30, 2023 — COOP and COEP headers in Github Pages . Sign up for free to join this conversation on GitHub.",
+    "host_name": "github.com",
+    "rank": 4,
+    "date": "Oct 30, 2023",
+    "favicon": ""
+  }
+]

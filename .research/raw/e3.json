@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/File_System_API/Origin_private_file_system",
+    "name": "Origin private file system - Web APIs | MDN",
+    "snippet": "Jul 14, 2025 — Manipulating the OPFS from a web worker Web Workers don't block the main thread, which means you can use the synchronous file access APIs in ...",
+    "host_name": "developer.mozilla.org",
+    "rank": 0,
+    "date": "Jul 14, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://web.dev/articles/origin-private-file-system",
+    "name": "The origin private file system | Articles",
+    "snippet": "Jun 8, 2023 — Once you have a synchronous access handle , you get access to fast in-place file methods that are all synchronous . write () : Writes the content ...",
+    "host_name": "web.dev",
+    "rank": 1,
+    "date": "Jun 8, 2023",
+    "favicon": ""
+  },
+  {
+    "url": "https://rxdb.info/rx-storage-opfs.html",
+    "name": "Supercharged OPFS Database with RxDB",
+    "snippet": "Apr 23, 2026 — The OPFS createSyncAccessHandle () method that gives you access to the synchronous methods is not exposed in the main thread, only in a Worker . Read more",
+    "host_name": "rxdb.info",
+    "rank": 2,
+    "date": "Apr 23, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/rhashimoto/wa-sqlite/discussions/81",
+    "name": "Using a shared Worker (instead of SharedWorker) #81",
+    "snippet": "Nov 19, 2023 — The OPFS access handle pooling approach now works on all the major browsers. With this option to support multiple browser tabs, I think this is going to be the ... Read more",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "Nov 19, 2023",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/rust/comments/1lu5k1f/the_origin_private_file_system_now_works_on_safari",
+    "name": "The Origin Private File System now works on Safari : r/rust",
+    "snippet": "OPFS gives webpages a directory that only they can write to and read from. These are real files written to a real directory on your computer … ...",
+    "host_name": "www.reddit.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://barndoors.lumafield.com/3x-faster-project-loads-with-the-origin-private-file-system",
+    "name": "3x faster project loads with the origin private file system",
+    "snippet": "Apr 6, 2026 — you can do synchronous OPFS operations on a Web Worker , It provides access to a special kind of file offers in-place write access to its ...",
+    "host_name": "barndoors.lumafield.com",
+    "rank": 5,
+    "date": "Apr 6, 2026",
+    "favicon": ""
+  }
+]

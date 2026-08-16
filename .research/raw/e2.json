@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://www.reddit.com/r/AV1/comments/16m865w/av1_support_in_safari_17",
+    "name": "AV1 support in Safari 17 - Reddit",
+    "snippet": "Sep 18, 2023 · Safari 17.0 adds support for AV1 video on devices with hardware decoding support, like iPhone 15 Pro and iPhone 15 Pro Max… What's the current status of AV1 on Safari? - Reddit Safari Technology Preview 161 adds support for WebCodecs AV1 ... More results from www.reddit.com",
+    "host_name": "www.reddit.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.remotion.dev/docs/media-parser/webcodecs",
+    "name": "Processing video with WebCodecs and @remotion/media-parser",
+    "snippet": "As of May 2025, all major browsers support VideoDecoder and AudioDecoder except Safari, which has support for VideoDecoder only.",
+    "host_name": "www.remotion.dev",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/VideoDecoder",
+    "name": "VideoDecoder - Web APIs | MDN",
+    "snippet": "May 8, 2024 · The VideoDecoder interface of the WebCodecs API decodes chunks of video. Safari on iOS – Full support Safari on iOS 16.4",
+    "host_name": "developer.mozilla.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.testmuai.com/learning-hub/webcodecs-browser-support",
+    "name": "WebCodecs: Browser Support, Features, Use Cases - TestMu AI",
+    "snippet": "Apr 30, 2026 · Yes, fully, from Safari 26.0 on iPhone and iPad. Safari 16.4 through 18.7 on iOS only exposed VideoDecoder and VideoEncoder. iOS Chrome and ...",
+    "host_name": "www.testmuai.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/w3c/webcodecs/issues/899",
+    "name": "Delayed H264 decoding on browsers when using VideoDecoder for",
+    "snippet": "Jul 23, 2025 · I have been trying to put together an end to end H264 real-time streaming implementation from macOS devices to browsers.",
+    "host_name": "github.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://caniuse.com/webcodecs",
+    "name": "WebCodecs API | Can I use Support tables for HTML5, CSS3, etc",
+    "snippet": "\"Can I use\" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.",
+    "host_name": "caniuse.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  }
+]

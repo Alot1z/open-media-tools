@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://github.com/ffmpegwasm/ffmpeg.wasm/issues/107",
+    "name": "License question · Issue #107 · ffmpegwasm/ffmpeg.wasm",
+    "snippet": "Nov 9, 2020 — The original ffmpeg is licensed under LGPL and GPL . Ships with libx264, which is GPL , which makes the resulting ffmpeg configuration GPL . the ...",
+    "host_name": "github.com",
+    "rank": 0,
+    "date": "Nov 9, 2020",
+    "favicon": ""
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=27419783",
+    "name": "Some parts of FFmpeg are LGPL, and",
+    "snippet": "Some parts of FFmpeg are LGPL , and some codecs are GPL (e.g., if you have x264 libs in there). How does one comply with the GPL and LGPL with Wasm , ... Read more",
+    "host_name": "news.ycombinator.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.ffmpeg.org/legal.html",
+    "name": "FFmpeg License and Legal Considerations",
+    "snippet": "FFmpeg is licensed under the GNU Lesser General Public License (LGPL ) version 2.1 or later. Make sure your program is not using any GPL libraries (notably libx ...",
+    "host_name": "www.ffmpeg.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://hoop.dev/blog/understanding-ffmpeg-licensing-what-developers-need-to-know-before-shipping",
+    "name": "Understanding FFmpeg Licensing: What Developers Need",
+    "snippet": "Sep 9, 2025 — FFmpeg comes under two licenses: LGPL version 2.1 or later, and GPL version 2 or later . You pick the one that matches how you link and combine  ...",
+    "host_name": "hoop.dev",
+    "rank": 3,
+    "date": "Sep 9, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://opensource.stackexchange.com/questions/10850/using-ffmpeg-only-for-decoding-in-closed-source-commercial-application",
+    "name": "licensing - Using FFmpeg only for decoding in closed",
+    "snippet": "Dec 2, 2020 — There are already lots of questions about FFmpeg licensing but I could not find one for my specific case. I'm making an application which is able to play ...",
+    "host_name": "opensource.stackexchange.com",
+    "rank": 4,
+    "date": "Dec 2, 2020",
+    "favicon": ""
+  }
+]
